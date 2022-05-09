@@ -1,0 +1,1 @@
+export {power4 as pow4} from './module.js'
